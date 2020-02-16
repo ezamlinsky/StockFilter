@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Stock Filter
+Exec=stockfilter
+Icon=/usr/share/icons/hicolor/scalable/apps/stock-filter.svg
+GenericName=Stock Filter
+Comment=Stock filter to choose good stocks for trading
+Categories=Office;Finance
+Version=1.0
+Encoding=UTF-8
+NoDisplay=False
+Hidden=False
+Terminal=False
